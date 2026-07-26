@@ -10,7 +10,7 @@ legacy modernization work such as domain invariants, idempotency guarantees and 
 
 ---
 
-### [Foundations](#foundations)
+### Foundations
 
 Core software design disciplines that hold regardless of whether the surrounding system is
 legacy or modern.
@@ -18,11 +18,11 @@ legacy or modern.
 - **Order State Machine** — Demonstrates domain invariants and lifecycle transitions expressed without
   a framework. Also includes a closed status enum with an explicit transition table.
 
-### [Legacy Discovery](#legacy-discovery)
+### Legacy Discovery
 
 More to come in future iterations!
 
-### [Delivery Engineering](#delivery-engineering)
+### Delivery Engineering
 
 More to come in future iterations!
 
