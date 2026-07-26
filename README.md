@@ -26,7 +26,7 @@ More to come in future iterations!
 
 More to come in future iterations!
 
-### [Connect](#connect)
+### Connect
 
 Part of a broader body of work on engineering effectiveness and legacy .NET modernization.
 Please check out my [profile](https://github.com/andrenguettia/andrenguettia) or reach out directly.
